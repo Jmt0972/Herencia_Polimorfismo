@@ -1,4 +1,3 @@
-
 import { Cuenta } from "./Cuenta.js";
 
 export class CuentaCorriente extends Cuenta {
