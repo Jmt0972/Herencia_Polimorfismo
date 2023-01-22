@@ -7,9 +7,9 @@ import { Empleado } from './Cuentas/Empleados/Empleado.js';
 import { Gerente } from './Cuentas/Empleados/Gerente.js';
 import { Director } from './Cuentas/Empleados/Director.js';
 
-const empleado = new Empleado('Juan Perez', '12312312');
-const gerente = new Gerente('Pedro Rivas', '24532145');
-const director = new Director('Elena Moreno', '78548792');
+const empleado = new Empleado('Juan Perez', '12312312', '10000');
+const gerente = new Gerente('Pedro Rivas', '24532145', '15000');
+const director = new Director('Elena Moreno', '78548792', '200000');
 
 /*const cliente = new Cliente('Leonardo','13804050','123224');
 const cliente2 = new Cliente('María','16979808','8989');
